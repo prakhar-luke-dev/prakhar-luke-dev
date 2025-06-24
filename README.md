@@ -2,7 +2,7 @@
 
 <h3>About Me</h3>
 
-I am currently working at [Hestabit](https://www.enterpret.com/) as a Software Developer AI/ML.
+I am currently working at as a ML Engineer.
 
 I'm an experienced AI/ML developer with a deep passion for multi-agent systems, LLMs, and optimization problems
 
